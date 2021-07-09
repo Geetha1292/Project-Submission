@@ -1,6 +1,7 @@
 # Project-Submission
 Tic-tac-toe Game using python
-oard=['-' for i in range(9)]
+
+board=['-' for i in range(9)]
 
 def PlayBoard():
     print("|", board[0],"|", board[1],"|",board[2],"|")
